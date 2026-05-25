@@ -1,5 +1,5 @@
 🇬🇧
-Details:
+# Details:
 - Continuation of the Astro-Adventure-3D-Unity-Developer-Module-32 project;
 - Added life to the hero;
 - Added checkpoints;
@@ -10,7 +10,7 @@ Details:
 - Added on-screen messages to reinforce what is happening in the game to the player. For example, after a checkpoint is activated, a UI message, "Checkpoint active," is displayed in the center of the screen for a few seconds.
 
 🇧🇷
-Detalhes:
+# Detalhes:
 - Continuidade do projeto Astro-Adventure-3D-Unity-Developer-Module-32;
 - Vida adicionada ao herói;
 - Checkpoints adicionados;
